@@ -35,6 +35,8 @@ namespace Microsoft.WindowsAzure.Commands.Storage
     using System.Management.Automation;
     using System.Threading.Tasks;
     using Track2blobModel = global::Azure.Storage.Blobs.Models;
+    //This is just a demo...
+    using System.io;
 
     /// <summary>
     /// Base cmdlet for storage blob/container cmdlet
